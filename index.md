@@ -1,4 +1,4 @@
-<link href="styles.css" rel="stylesheet">
+<link href="source/styles.css" rel="stylesheet">
 
 # Example Book Review
 
