@@ -7,6 +7,7 @@
     color: #000;
   }
 </style>
+
 # Example Book Review
 
 Foreword: I wanted to read this as a habit to improve my langauge and my reading skills. Also that's my personal goal for this year to read some book per month. 
