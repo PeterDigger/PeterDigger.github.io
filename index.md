@@ -1,7 +1,7 @@
 <style type="text/css">
   body {
     background-color: #000;
-    color: #fff
+    color: #fff;
   }
 </style>
 # Example Book Review
