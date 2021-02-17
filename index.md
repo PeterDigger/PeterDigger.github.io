@@ -5,6 +5,8 @@
   }
   code{
     color: #000;
+  }
+  pre{
     background-color: #d2d2d2; 
   }
 </style>
