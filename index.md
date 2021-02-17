@@ -5,7 +5,7 @@
   }
   code{
     color: #000;
-    background: #d2d2d2; 
+    background-color: #d2d2d2; 
   }
 </style>
 
