@@ -1,16 +1,4 @@
-<style type="text/css">
-  body {
-    background-color: #000;
-    color: #fff;
-  }
-  code{
-    color: #000;
-  }
-  pre{
-    background-color: #d2d2d2; 
-  }
-</style>
-
+ <link href="styles.css" rel="stylesheet"></link>
 # Example Book Review
 
 Foreword: I wanted to read this as a habit to improve my langauge and my reading skills. Also that's my personal goal for this year to read some book per month. 
