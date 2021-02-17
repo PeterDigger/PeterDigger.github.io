@@ -1,4 +1,5 @@
- <link href="styles.css" rel="stylesheet"></link>
+<link href="styles.css" rel="stylesheet">
+
 # Example Book Review
 
 Foreword: I wanted to read this as a habit to improve my langauge and my reading skills. Also that's my personal goal for this year to read some book per month. 
@@ -19,9 +20,9 @@ This paragraph will explain how the book will be like for each of a chapter.
 
 This is also paragraph will explain how the book will be like for each of a chapter.
 
-    Words That I have learned
-    * new word
-    * another new word
-    * another new new word
+> Words That I have learned
+> * new word
+> * another new word
+> * another new new word
 
 ---
