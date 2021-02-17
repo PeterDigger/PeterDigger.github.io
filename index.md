@@ -3,6 +3,9 @@
     background-color: #000;
     color: #fff;
   }
+  code{
+    color: #000;
+  }
 </style>
 # Example Book Review
 
