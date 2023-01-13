@@ -6,7 +6,6 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://peterdiggerstudio.com/blogindex.html</loc><lastmod>2023-01-13</lastmod><priority>1.0</priority></url>
 <url><loc>https://peterdiggerstudio.com/src/blogindex.html</loc><lastmod>2023-01-13</lastmod><priority>1.0</priority></url>
-<url><loc>https://peterdiggerstudio.com/README.html</loc><lastmod>2023-01-13</lastmod><priority>1.0</priority></url>
 <url><loc>https://peterdiggerstudio.com/temp.html</loc><lastmod>2023-01-13</lastmod><priority>1.0</priority></url>
 <url><loc>https://peterdiggerstudio.com/main.html</loc><lastmod>2023-01-13</lastmod><priority>1.0</priority></url>
 <url><loc>https://peterdiggerstudio.com/blog/thoughts.html</loc><lastmod>2023-01-13</lastmod><priority>1.0</priority></url>
